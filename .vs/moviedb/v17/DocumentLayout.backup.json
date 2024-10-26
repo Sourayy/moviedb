@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\domain\\entidades\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AtorRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\AtorRepositorio.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorios\\AtorRepositorio.cs",
-              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\AtorRepositorio.cs",
-              "RelativeToolTip": "Infra\\Repositorios\\AtorRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T00:09:53.856Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -89,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Filme.cs",
               "RelativeDocumentMoniker": "Domain\\Entidades\\Filme.cs",
@@ -102,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Serie.cs",
               "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Serie.cs",
               "RelativeDocumentMoniker": "Domain\\Entidades\\Serie.cs",
@@ -141,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DbContexto.cs",
               "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\DbContexto.cs",
               "RelativeDocumentMoniker": "Infra\\DbContexto.cs",
@@ -154,15 +141,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SerieRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\SerieRepositorio.cs",
               "RelativeDocumentMoniker": "Infra\\Repositorios\\SerieRepositorio.cs",
               "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\SerieRepositorio.cs",
               "RelativeToolTip": "Infra\\Repositorios\\SerieRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T00:24:25.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AtorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\AtorRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorios\\AtorRepositorio.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\AtorRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorios\\AtorRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:09:53.856Z",
               "EditorCaption": ""
             }
           ]
