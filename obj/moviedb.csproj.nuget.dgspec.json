@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\source\\repos\\moviedb\\moviedb.csproj": {}
+    "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3ºPERÍODO\\SEMINÁRIO III\\seminarios\\moviedb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\source\\repos\\moviedb\\moviedb.csproj": {
+    "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3ºPERÍODO\\SEMINÁRIO III\\seminarios\\moviedb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\moviedb\\moviedb.csproj",
+        "projectUniqueName": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3ºPERÍODO\\SEMINÁRIO III\\seminarios\\moviedb.csproj",
         "projectName": "moviedb",
-        "projectPath": "C:\\Users\\Administrador\\source\\repos\\moviedb\\moviedb.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\source\\repos\\moviedb\\obj\\",
+        "projectPath": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3ºPERÍODO\\SEMINÁRIO III\\seminarios\\moviedb.csproj",
+        "packagesPath": "C:\\Users\\1363269\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3ºPERÍODO\\SEMINÁRIO III\\seminarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\1363269\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,6 +51,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

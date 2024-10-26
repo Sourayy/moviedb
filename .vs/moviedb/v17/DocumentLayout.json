@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\moviedb\\",
+  "WorkspaceRootPath": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\api\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:api\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\serierepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\atorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\infra\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\domain\\entidades\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\infra\\repositorios\\atorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\atorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:infra\\repositorios\\filmerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\domain\\entidades\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\domain\\entidades\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\administrador\\source\\repos\\moviedb\\domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:domain\\entidades\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|c:\\users\\1363269\\onedrive - sga.pucminas.br\\3\u00BAper\u00EDodo\\semin\u00E1rio iii\\seminarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C0C3F7D-2B00-4627-BFAA-2FAFC4AA8DAB}|moviedb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FilmeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\FilmeController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\FilmeController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\FilmeController.cs",
-              "RelativeToolTip": "Api\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswB0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "FilmeRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\FilmeRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorios\\FilmeRepositorio.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\FilmeRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorios\\FilmeRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:36:36.254Z",
+              "WhenOpened": "2024-10-26T00:13:45.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ator.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Ator.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Ator.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Ator.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Ator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:10:37.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Filme.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Filme.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Filme.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T00:40:49.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AtorRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\AtorRepositorio.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorios\\AtorRepositorio.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\AtorRepositorio.cs",
-              "RelativeToolTip": "Infra\\Repositorios\\AtorRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:29:31.887Z"
+              "WhenOpened": "2024-10-25T23:03:36.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FilmeRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\FilmeRepositorio.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorios\\FilmeRepositorio.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Infra\\Repositorios\\FilmeRepositorio.cs",
-              "RelativeToolTip": "Infra\\Repositorios\\FilmeRepositorio.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Title": "Serie.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Serie.cs",
+              "RelativeDocumentMoniker": "Domain\\Entidades\\Serie.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Domain\\Entidades\\Serie.cs",
+              "RelativeToolTip": "Domain\\Entidades\\Serie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:58:41.919Z"
+              "WhenOpened": "2024-10-25T23:03:21.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Ator.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Ator.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Ator.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Ator.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Ator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:55:55.152Z"
+              "WhenOpened": "2024-10-25T22:24:50.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T22:22:24.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContexto.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\DbContexto.cs",
+              "RelativeDocumentMoniker": "Infra\\DbContexto.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\DbContexto.cs",
+              "RelativeToolTip": "Infra\\DbContexto.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:26:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerieRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\SerieRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorios\\SerieRepositorio.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\SerieRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorios\\SerieRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:24:25.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Filme.cs",
-              "RelativeDocumentMoniker": "Domain\\Entidades\\Filme.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\moviedb\\Domain\\Entidades\\Filme.cs",
-              "RelativeToolTip": "Domain\\Entidades\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Title": "AtorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\AtorRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorios\\AtorRepositorio.cs",
+              "ToolTip": "C:\\Users\\1363269\\OneDrive - sga.pucminas.br\\3\u00BAPER\u00CDODO\\SEMIN\u00C1RIO III\\seminarios\\Infra\\Repositorios\\AtorRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorios\\AtorRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:54:01.953Z"
+              "WhenOpened": "2024-10-26T00:09:53.856Z",
+              "EditorCaption": ""
             }
           ]
         }
